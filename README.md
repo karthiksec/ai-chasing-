@@ -1,9 +1,9 @@
 # AI Random Roam with Chase - Unreal Engine
 
-## 🎯 Aim
+## Aim
 To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases the player when they come within a certain range, using Behavior Trees, Blackboard, and AI Perception.
 
-## 🛠️ Procedure
+## Procedure
 
 1. **Setup Navigation**
    - Add a `NavMeshBoundsVolume` to your level and scale it to cover the roamable area.
